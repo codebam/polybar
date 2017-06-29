@@ -1,3 +1,9 @@
+polybar (3.0.5-1) stretch; urgency=medium
+
+  * Bump version to 3.0.5
+
+ -- Sean Behan <sean@debian.domain>  Thu, 29 Jun 2017 06:12:26 -0400
+
 polybar (3.0.4-1) stretch; urgency=medium
 
   * Initial release
